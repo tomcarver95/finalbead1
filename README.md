@@ -26,4 +26,7 @@ az adott név már foglalt.
 #### Felhasználói dokumentáció
 A futtatáshoz olyan böngésző szükséges, mely támogatja a Java-scriptet. (pl: Mozilla Firefox, Google Chrome)
 
+#### Hogyan kerül a Githubról a célgépre a 
+A GitHubos repository oldalán a Download.ZIPre kattintva letölthetjük a projektet, és az ````npm init```` parancsot kiadva lehetőségünk nyílik a szükséges modulokat behúzni a projektünkbe.
+
 
