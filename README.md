@@ -8,7 +8,7 @@ http://tomcarver95afbead1.herokuapp.com/
 #### Feladat
 A NodeJs használatával létrehozni egy egyszerűsített felületet, mely segítségével tantárgyakat tudunk felvenni, illetve leadni.
 
-#### Funkciói:
+#### Funkciói: 
 * Regisztráció
 * Bejelentkezés
 * Új tárgy felvétele
