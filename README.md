@@ -16,14 +16,14 @@ A NodeJs használatával létrehozni egy egyszerűsített felületet, mely segí
 * Tárgyak leadása
 
 Az alkalmazás funkcióit csak regisztrált tagok érhetik el bejelentkezés után.
-A program az adatokat fájlban tárolja. 
+A program perzisztálja az adatokat, azaz fájlban tárolja az adatbázist. 
 
 #### Hibakezelés
 Az alkalmazás érzékeny a különböző hibákra, például ha nemlétező felhasználóval próbálunk belépni, vagy ha regisztrációnál
 az adott név már foglalt.
 
 
-#### Fejlesztőknek
-- Github repository klónozása után egy ``` npm init ``` parancsot kell kiadnunk.
-- ``` npm install ``` segítségével telepíthetők a szükséges csomagok a fejlesztéshez a ``` package.json ``` alapján.
-- NodeJS szükséges a futtatáshoz
+#### Felhasználói dokumentáció
+A futtatáshoz olyan böngésző szükséges, mely támogatja a Java-scriptet. (pl: Mozilla Firefox, Google Chrome)
+
+
