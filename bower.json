@@ -1,0 +1,22 @@
+{
+  "name": "subjects",
+  "version": "0.0.0",
+  "authors": [
+    "tomcarver95 <01.farago.tamas@gmail.com>"
+  ],
+  "description": "Tantárgyfelvevő alkalmazás",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-validator": "~0.9.0",
+    "handlebars": "~4.0.3",
+    "bootstrap": "~3.3.5",
+    "bootswatch": "~3.3.5+4"
+  }
+}

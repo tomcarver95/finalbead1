@@ -1,0 +1,231 @@
+{
+  "data": {
+    "error": [
+      {
+        "status": "new",
+        "location": "asdasdasas",
+        "description": "asdasdasda",
+        "date": "2015-10-08T07:48:45.952Z",
+        "createdAt": "2015-10-08T07:48:45.954Z",
+        "updatedAt": "2015-10-08T07:48:45.954Z",
+        "id": 1
+      },
+      {
+        "status": "new",
+        "location": "PC6",
+        "description": "monitor hiba",
+        "date": "2015-10-08T08:45:25.580Z",
+        "createdAt": "2015-10-08T08:45:25.582Z",
+        "updatedAt": "2015-10-08T08:45:25.582Z",
+        "id": 2
+      },
+      {
+        "status": "new",
+        "location": "sadasdsa",
+        "description": "sadasdsaasd",
+        "date": "2015-10-08T09:32:36.346Z",
+        "createdAt": "2015-10-08T09:32:36.347Z",
+        "updatedAt": "2015-10-08T09:32:36.347Z",
+        "id": 3
+      },
+      {
+        "status": "new",
+        "location": "yxcyxcyxc",
+        "description": "yxcyxcyxcx",
+        "date": "2015-10-08T09:32:55.610Z",
+        "createdAt": "2015-10-08T09:32:55.611Z",
+        "updatedAt": "2015-10-08T09:32:55.611Z",
+        "id": 4
+      },
+      {
+        "status": "new",
+        "location": "htmngh",
+        "description": "jghjgh",
+        "date": "2015-10-21T22:34:34.115Z",
+        "createdAt": "2015-10-21T22:34:34.116Z",
+        "updatedAt": "2015-10-21T22:34:34.116Z",
+        "id": 5
+      },
+      {
+        "status": "new",
+        "location": "sdfsd",
+        "description": "fsdsdfsdfsdf",
+        "date": "2015-10-27T12:05:41.094Z",
+        "createdAt": "2015-10-27T12:05:41.094Z",
+        "updatedAt": "2015-10-27T12:05:41.094Z",
+        "id": 6
+      },
+      {
+        "status": "done",
+        "description": "C++",
+        "date": "2015-11-08T09:42:18.664Z",
+        "createdAt": "2015-11-08T09:42:18.667Z",
+        "updatedAt": "2015-11-08T17:31:12.897Z",
+        "id": 9
+      },
+      {
+        "status": "not-done",
+        "description": "Algo2 GY",
+        "date": "2015-11-08T09:44:47.754Z",
+        "createdAt": "2015-11-08T09:44:47.756Z",
+        "updatedAt": "2015-11-08T09:44:47.756Z",
+        "id": 11
+      },
+      {
+        "status": "done",
+        "description": "Dimat 3",
+        "date": "2015-11-08T09:58:08.721Z",
+        "createdAt": "2015-11-08T09:58:08.723Z",
+        "updatedAt": "2015-11-08T09:58:15.727Z",
+        "id": 12
+      },
+      {
+        "status": "not-done",
+        "description": "analízis szerelmem",
+        "date": "2015-11-08T17:30:53.437Z",
+        "createdAt": "2015-11-08T17:30:53.440Z",
+        "updatedAt": "2015-11-08T17:30:53.440Z",
+        "id": 13
+      }
+    ],
+    "user": [
+      {
+        "surname": "Kiss",
+        "forename": "Ferenc",
+        "neptun": "asd123",
+        "password": "$2a$10$/TGf/ZArvBfo3sXPh0YVn.py/w6j1njImKnMCi4jyWuNi3ZUmpCGi",
+        "avatar": "",
+        "role": "riporter",
+        "createdAt": "2015-10-14T21:47:48.208Z",
+        "updatedAt": "2015-10-14T21:47:48.208Z",
+        "id": 1
+      },
+      {
+        "surname": "Kis",
+        "forename": "Elek",
+        "neptun": "abcd12",
+        "password": "abcd123",
+        "avatar": "",
+        "role": "riporter",
+        "createdAt": "2015-10-15T07:02:41.481Z",
+        "updatedAt": "2015-10-15T07:02:41.481Z",
+        "id": 2
+      },
+      {
+        "surname": "abcd12",
+        "forename": "abcd12",
+        "neptun": "abcd123",
+        "password": "$2a$10$M3kw2vSNxsZwnc4xUVcvHeiDJSsonu1KZJvIJE53kYhC294sxrnj6",
+        "avatar": "",
+        "role": "riporter",
+        "createdAt": "2015-10-15T07:20:15.875Z",
+        "updatedAt": "2015-10-15T07:20:15.875Z",
+        "id": 3
+      },
+      {
+        "surname": "asd",
+        "forename": "asd",
+        "neptun": "asd",
+        "password": "$2a$10$5cQ29g7B8j1x8Wsk.ELQmO/Fnco/RVpFXZ8OojudWuyoGSZSXcDQq",
+        "avatar": "",
+        "role": "riporter",
+        "createdAt": "2015-10-27T12:04:17.648Z",
+        "updatedAt": "2015-10-27T12:04:17.648Z",
+        "id": 4
+      },
+      {
+        "surname": "aaa",
+        "forename": "aaa",
+        "neptun": "aaa",
+        "password": "$2a$10$O0aKv0FumRdjjSTsazweWORMRS3UN7YvHzUK15TZNRp2v8W9GkWWe",
+        "avatar": "",
+        "role": "riporter",
+        "createdAt": "2015-11-08T09:29:30.771Z",
+        "updatedAt": "2015-11-08T09:29:30.771Z",
+        "id": 5
+      }
+    ]
+  },
+  "schema": {
+    "error": {
+      "date": {
+        "type": "datetime"
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "not-done",
+          "done"
+        ],
+        "defaultsTo": "not-done"
+      },
+      "description": {
+        "type": "string"
+      },
+      "user": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "user"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "user": {
+      "neptun": {
+        "type": "string",
+        "unique": true
+      },
+      "password": {
+        "type": "string"
+      },
+      "surname": {
+        "type": "string"
+      },
+      "forename": {
+        "type": "string"
+      },
+      "avatar": {
+        "type": "string"
+      },
+      "role": {
+        "type": "string",
+        "enum": [
+          "riporter",
+          "operator"
+        ],
+        "defaultsTo": "riporter"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    }
+  },
+  "counters": {
+    "error": {
+      "id": 13
+    },
+    "user": {
+      "id": 5
+    }
+  }
+}

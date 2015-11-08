@@ -1,0 +1,41 @@
+{{#extend "scripts"}}
+<script src="/js/list.js"></script>
+{{/extend}}
+
+{{#each messages}}
+<div class="alert alert-dismissible alert-success">
+    <button type="button" class="close" data-dismiss="alert">×</button>
+    {{this}}
+</div>
+{{/each}}
+
+<div class="page-header">
+    <h1>Felvett tárgyaim</h1>
+</div>
+
+<table class="table table-striped table-hover" id="errorTable">
+    <thead>
+        <tr>
+            <th>Tárgy neve</th>
+            <th>Státusz</th>
+            <th>Felvétel időpontja</th>
+            <th>Módosítás (név, státusz)</th>
+            <th>Leadás</th>
+        </tr>   
+    </thead>
+    <tbody>
+        {{#each errors}}
+        <tr>
+            <td>{{description}}</td>
+            <td><span class="label label-{{statusClass}}">{{statusText}}</span></td>
+            <td>{{date}}</td>
+            <td><a class="btn btn-primary" href="/errors/edit/{{id}}">Módosítás</a></td>
+            <td><a class="btn btn-danger" href="/errors/delete/{{id}}">Leadás</a></td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
+
+<p>
+<a href="/errors/new" class="btn btn-default">Új tárgy</a>
+</p>

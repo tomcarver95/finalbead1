@@ -1,0 +1,35 @@
+{
+  "name": "subjects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "body-parser": "^1.14.1",
+    "bcryptjs": "^2.3.0",
+    "express-session": "^1.12.0",
+    "express": "^4.13.3",
+    "express-validator": "^2.17.1",
+    "hbs": "^3.1.1",
+    "sails-memory": "^0.10.5",
+    "sails-postgresql": "^0.10.16",
+    "sails-disk": "^0.10.8",
+    "waterline": "^0.10.26",
+    "passport": "^0.3.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcarver95/finalbead1.git"
+  },
+  "author": "tomcarver95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcarver95/finalbead1/issues"
+  },
+  "homepage": "https://github.com/tomcarver95/finalbead1#readme"
+}
